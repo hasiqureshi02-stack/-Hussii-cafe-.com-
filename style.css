@@ -191,3 +191,12 @@ section#contact p{
 #contact p:hover img{
   filter:brightness(0) invert(1);
 }
+
+project-folder/
+ ├─ index.html
+ ├─ style.css
+ └─ images/
+      ├─ chai-ghar.png         ← Logo image
+      ├─ whatsapp-icon.png     ← WhatsApp icon
+      ├─ location-icon.png     ← Address/location icon
+      └─ message-icon.png      ← Timing/message icon
